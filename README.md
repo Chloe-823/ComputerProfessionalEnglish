@@ -18,7 +18,7 @@ Files.
 - Machine learning is a technique of data science thathelps computers learn from existing data in order toforecast future behaviors, outcomes, and trends.
   机器学习是一种数据科学技术，它帮助计算机从现有数据中学习，从而预测未来的行为、结果和趋势。
 
- ## ![https://github.com/Chloe-823/ComputerProfessionalEnglish/blob/main/20200618092356504.png]
+ ## [web]((https://github.com/Chloe-823/ComputerProfessionalEnglish/blob/main/20200618092356504.png))
  ## ![https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic3.zhimg.com%2Fv2-7ce5a1e89022021a0b11400c95bb9322_1200x500.jpg&refer=http%3A%2F%2Fpic3.zhimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622217465&t=97bbe5f1817b25ff9e5a873366604b47](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic3.zhimg.com%2Fv2-7ce5a1e89022021a0b11400c95bb9322_1200x500.jpg&refer=http%3A%2F%2Fpic3.zhimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622217465&t=97bbe5f1817b25ff9e5a873366604b47)
 
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -80,12 +80,12 @@ Files.
 
 
 
-| A | B | C
-|----------------:|-----------------:|--------:|
-| *Italics* | i1 | i2 |
-| **bold** | b1 | b2 |
-| D | E | F |
-| H | J | Q |
+|   学号   | 姓名  | 分数 |
+| :------: | :---: | :--: |
+| 01180101 |  Amy  |  80  |
+| 01180102 | Judy  |  85  |
+| 01180103 | Cindy |  90  |
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -102,10 +102,8 @@ int main()
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
->
 
 
-## [web]((https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic3.zhimg.com%2Fv2-7ce5a1e89022021a0b11400c95bb9322_1200x500.jpg&refer=http%3A%2F%2Fpic3.zhimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622217465&t=97bbe5f1817b25ff9e5a873366604b47))
 
 ##  [link](1101.md)
 
