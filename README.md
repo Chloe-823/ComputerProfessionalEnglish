@@ -18,7 +18,7 @@ Files.
 - Machine learning is a technique of data science thathelps computers learn from existing data in order toforecast future behaviors, outcomes, and trends.
   机器学习是一种数据科学技术，它帮助计算机从现有数据中学习，从而预测未来的行为、结果和趋势。
 
- ## [Image](20200618092356504.png)
+ ## [机器学习]![https://github.com/Chloe-823/ComputerProfessionalEnglish/blob/main/20200618092356504.png]
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ####  二、机器学习相关术语
